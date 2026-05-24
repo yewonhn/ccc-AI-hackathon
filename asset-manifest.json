@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ccc-AI-hackathon/static/css/main.e6c13ad2.css",
+    "main.js": "/ccc-AI-hackathon/static/js/main.cca3647c.js",
+    "static/js/453.c434ad89.chunk.js": "/ccc-AI-hackathon/static/js/453.c434ad89.chunk.js",
+    "index.html": "/ccc-AI-hackathon/index.html",
+    "main.e6c13ad2.css.map": "/ccc-AI-hackathon/static/css/main.e6c13ad2.css.map",
+    "main.cca3647c.js.map": "/ccc-AI-hackathon/static/js/main.cca3647c.js.map",
+    "453.c434ad89.chunk.js.map": "/ccc-AI-hackathon/static/js/453.c434ad89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cca3647c.js"
+  ]
+}
